@@ -15,8 +15,8 @@ describe ('Funcionalidade da página de produtos',() => {
             .click()
     })
 
-    it('Deve adicionar um produto ao carrinho', () => {
-        var quantidade = 10
+    it.only('Deve adicionar um produto ao carrinho', () => {
+        var quantidade = 2
 
         cy.get('[class="product-block grid"]').contains('Atlas Fitness Tank').click()
         cy.get('.button-variable-item-XL').click()

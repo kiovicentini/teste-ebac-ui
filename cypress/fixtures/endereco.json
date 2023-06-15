@@ -1,0 +1,44 @@
+[
+{
+    "nome": "Albert",
+    "sobrenome": "Wesker",
+    "empresa": "Umbrella",
+    "endereco": "Rebecca Street",
+    "numero": "1996",
+    "pais": "Brasil",
+    "cidade": "São Paulo",
+    "estado": "São Paulo",
+    "cep": "01010101",
+    "telefone": "11999999999",
+    "email": "teste@teste.com"
+},
+{
+    "nome": "Chris",
+    "sobrenome": "Redfield",
+    "empresa": "STARS",
+    "endereco": "Redfield Street",
+    "numero": "2001",
+    "pais": "Brasil",
+    "cidade": "São Paulo",
+    "estado": "São Paulo",
+    "cep": "01010102",
+    "telefone": "11999999998",
+    "email": "teste2@teste.com"
+},
+{
+    "nome": "Leon",
+    "sobrenome": "Kennedy",
+    "empresa": "RPD",
+    "endereco": "Claire Street",
+    "numero": "1998",
+    "pais": "Brasil",
+    "cidade": "São Paulo",
+    "estado": "São Paulo",
+    "cep": "01010103",
+    "telefone": "11999999997",
+    "email": "teste3@teste.com"
+}
+
+
+
+]

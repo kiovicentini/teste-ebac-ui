@@ -4,13 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "cy:run": "npx cypress run --browser chrome",
+    "cy:open": "npx cypress open",
+    "cy:report":"npx cypress run --record --key f8d4bacf-7862-43cc-9c57-c29239f7092b"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^12.13.0"
+    "-": "^0.0.1",
+    "cypress": "^12.13.0",
+    "npm": "^9.7.1"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.0.2"
